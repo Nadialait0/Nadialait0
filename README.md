@@ -22,4 +22,4 @@ Currently pursuing a **Master’s degree in Intelligent Processing Systems (IPS)
 
 ---
 
-                                                        *"Data is not just numbers — it’s knowledge waiting to be revealed."*
+                    *"Data is not just numbers — it’s knowledge waiting to be revealed."*
