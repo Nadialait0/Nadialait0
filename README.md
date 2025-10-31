@@ -9,8 +9,6 @@ Currently pursuing a **Master’s degree in Intelligent Processing Systems (IPS)
 
 
 📫 **Reach me anytime:** [nadialayt@gmail.com](mailto:nadialayt@gmail.com)  
-🔗 **Connect with me:** [LinkedIn – Nadia Lait](https://www.linkedin.com/in/nlait)
-
 ---
 
 ### 📊 GitHub Insights  
