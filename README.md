@@ -10,14 +10,6 @@ Currently pursuing a **Master’s degree in Intelligent Processing Systems (IPS)
 
 📫 **Reach me anytime:** [nadialayt@gmail.com](mailto:nadialayt@gmail.com)  
 ---
-
-### 📊 GitHub Insights  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadialait0&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nadialait0&show_icons=true&theme=radical)
-
----
-
 ![Profile views](https://komarev.com/ghpvc/?username=Nadialait0&color=ff69b4&style=flat)
 
 ---
